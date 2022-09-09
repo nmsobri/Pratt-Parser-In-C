@@ -1,0 +1,15 @@
+{
+  "gotoSymbolStack.currentStackPosition": 0,
+  "gotoSymbolStack.filePositionInfo": [],
+  "gotoSymbolStack.maxStackPosition": 0,
+  "files.associations": {
+	"*.ts": "typescript",
+	"parser.h": "c",
+	"lexer.h": "c",
+	"stdio.h": "c",
+	"token.h": "c",
+	"string.h": "c",
+	"cctype": "c",
+	"common.h": "c"
+}
+}
